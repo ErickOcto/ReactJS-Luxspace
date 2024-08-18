@@ -5,7 +5,7 @@ function App() {
     <>
       <h1 className="text-base">Tes</h1>
     </>
-  )
+  );
 }
 
-export default App
+export default App;
